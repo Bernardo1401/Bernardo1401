@@ -42,7 +42,7 @@ Busco constantemente desafios e oportunidades para crescer na área de tecnologi
   <a href="https://www.instagram.com/beh_moraees/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/enzo-alves-turcovic-10b7ab201/" target="_blank">
+  <a href="https://www.linkedin.com/in/bernardo-gabriel-de-moraes-marques-146b222b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sardinhaber@gmail.com" target="_blank">
