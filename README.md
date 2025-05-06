@@ -3,7 +3,7 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bernardp+👋;I'm+29+years+old;I'm+a+programmer+and+an+IT+profissional;Be+Welcome+to+github+profile!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bernardo+👋;Eu+tenho+17+anos;Atualmente+estou+cursando+um+curso+técnico+de+desenvolvimento+de+sistemas+no+Senai+Valinhos;Seja+Bem-vindo(a)+ao+meu+perfil+do+github!+:%29)
 <br>
 <br>
 
