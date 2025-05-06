@@ -31,9 +31,12 @@ Busco constantemente desafios e oportunidades para crescer na área de tecnologi
   </table>
 </div>
 
-## 🐍 Minhas contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bernardo1401/Bernardo1401/main/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bernardo1401&theme=transparent&v=1" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bernardo1401&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bernardo1401&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bernardo1401&theme=transparent&utcOffset=5.30" height="180em" alt="Productive Time"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo1401&theme=transparent" height="180em" alt="Profile Details"/>
 </div>
 
 ## 🚀 Tecnologias que utilizo
