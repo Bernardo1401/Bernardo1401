@@ -67,6 +67,6 @@ Busco constantemente desafios e oportunidades para crescer na área de tecnologi
   Obrigada por acessar meu perfil! 💌
 <br>
   <br>
-  <img src="https://profile-counter.glitch.me/flaviamendes17/count.svg?" />
+  <img src="https://profile-counter.glitch.me/Bernardo1401/count.svg?" />
 
 </div><br/>
