@@ -64,4 +64,9 @@ Busco constantemente desafios e oportunidades para crescer na área de tecnologi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+  Obrigada por acessar meu perfil! 💌
+<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/flaviamendes17/count.svg?" />
+
 </div><br/>
