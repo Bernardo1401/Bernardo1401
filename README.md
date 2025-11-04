@@ -8,27 +8,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
 </div>
 
----
+<div align="center">
+ 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjcxeg2szgxazlvond6uvwfrxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false"/>
+  </a>
+</div>
 
-## 🚀 Sobre Mim
 
-javascript
-const bernardo = {
-  nome: "Bernardo",
-  localização: "Brasil 🇧🇷",
-  github: "https://github.com/Bernardo1401",
-  foco: "Desenvolvimento Full Stack",
-  paixões: ["Clean Code", "UI/UX Design", "Inovação Tecnológica"],
-  atualmente: "Explorando novas fronteiras do desenvolvimento",
-  filosofia: "O código é a espada que corta a ignorância. ⚔️",
-  café_consumido: "∞ xícaras ☕",
-};
-
-console.log("Sempre aprendendo, sempre evoluindo! 🌱");
-
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ### 🎨 **Frontend Development**
 
@@ -197,4 +185,5 @@ console.log("Sempre aprendendo, sempre evoluindo! 🌱");
 **⭐ Se você chegou até aqui, considere dar uma estrela nos meus repositórios! ⭐**
 
 </div>
+
 
