@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u6kqncrfdpifxmyk2o2tucb7xe&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
   </a>
 </div>
 
@@ -189,6 +189,7 @@
 **⭐ Se você chegou até aqui, considere dar uma estrela nos meus repositórios! ⭐**
 
 </div>
+
 
 
 
