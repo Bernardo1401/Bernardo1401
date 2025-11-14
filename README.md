@@ -8,12 +8,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
 </div>
 
+
+## 🎵 Codando agora ao som de
+
 <div align="center">
- 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjcxeg2szgxazlvond6uvwfrxi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=
+31jkmxfi66osho5oicp7zi5jyqfu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
   </a>
 </div>
+
+---
 
 
 ### 💻 Tech Stack
@@ -185,6 +190,7 @@
 **⭐ Se você chegou até aqui, considere dar uma estrela nos meus repositórios! ⭐**
 
 </div>
+
 
 
 
